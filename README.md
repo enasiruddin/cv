@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?enasiruddin)
+![](https://komarev.com/ghpvc/enasiruddin)
